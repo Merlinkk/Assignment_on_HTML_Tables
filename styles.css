@@ -1,0 +1,24 @@
+table{
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    margin-bottom: 2%;
+    border: none;
+}
+
+thead{
+    color: white;
+    background-color: #D63231;
+}
+
+.type1{
+    background-color: white;
+}
+
+.type2{
+    background-color: #F2F2F2;
+}
+
+caption{
+    font-size: xx-large;
+}
